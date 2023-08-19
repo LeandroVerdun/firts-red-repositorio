@@ -1,2 +1,2 @@
 # firts-red-repositorio
-mi primer repositorio en github
+mi segundo repositorio en github 
